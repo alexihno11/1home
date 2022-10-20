@@ -95,4 +95,3 @@
 #     for i in range(2, k):
 #         k1, k2 = k2, k1 + k2
 #         print(k2, end=' ')
-
